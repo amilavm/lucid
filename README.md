@@ -11,19 +11,19 @@
 <!-- [![](https://img.shields.io/badge/torch-1.11.0-red.svg)]()
 [![](https://img.shields.io/badge/Made_with-Flask-important.svg)]() -->
 
-<br />
+
 
 ## Main Features
 
-- OCR (Optical Character Recognition)
-- Key Word Search
-- Intelligent Search (Contextual Search)
+- [x] OCR (Optical Character Recognition)
+- [x] Key Word Search
+- [x] Intelligent Search (Contextual Search)
 
 <!-- ## Demo
 
 This is a sample [demo](https://engenuitylk.sharepoint.com/:v:/s/PeoplesInsurance/EWi-FheOf9JBgkCjYY8ZaJABxMiyQmu6T3Hre8nsUd3dxA?e=EqUKeb) video of the project. -->
 
-<br />
+
 
 ## Setting up the App Locally
 
