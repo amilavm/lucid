@@ -1,0 +1,7 @@
+this is the output directory to contain intelligent search outputs
+
+Please create the follwing 3 folders inside this directory:
+    1. csv
+    2. pics
+    3. result_pdfs
+

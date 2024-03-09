@@ -1,0 +1,5 @@
+this is the model artefacts directory to contain the sentenceBERT model.
+
+Please find the link to the artefacts from readme, then download and place it here.
+
+
